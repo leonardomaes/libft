@@ -1,5 +1,6 @@
-# Libft - Your very first own library
-
+<h1 align="center">
+   Libft - Your very first own library
+</h1>
 Libft (Library of Functions)
 
 This is the first proposed project on 42 school, you will be creating a library of functions, the file structure for this project is the following:
